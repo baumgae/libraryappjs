@@ -9,4 +9,4 @@ With this small Library Web App, you can store and delete Books with their autho
 
 Here an image of the actual application:
 
-![Demo Image](https://github.com/baumgae/libraryappjs/blob/main/Image.png?raw=true)
+![Demo Image](https://github.com/baumgae/libraryappjs/Image.png?raw=true)
